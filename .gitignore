@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+models/*.onnx
+models/*.task
+models/*.tflite
+data/db/
+data/enroll/
+logs/
+runs/
+.claude/
